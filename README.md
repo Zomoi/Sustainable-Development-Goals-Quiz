@@ -46,9 +46,10 @@
   <h2 tabindex="-1" class="heading-element" dir="auto">OOP Principle</h2>
 </div>
 <ul dir = "auto">
-  <li>Countdown timer</li>
-  <li>Custom event handling</li>
-  <li>Scoring System</li>
+  <li>Encapsulation</li>
+  <li>Polymorphism</li>
+  <li>Abstraction</li>
+  <li>Inheritance</li>
 </ul>
 <hr></hr>
 <div class ="markdown-heading" dir="auto">
