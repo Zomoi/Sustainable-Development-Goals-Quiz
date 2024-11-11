@@ -43,7 +43,7 @@
 </p>
 <hr></hr>
 <div class ="markdown-heading" dir="auto">
-  <h2 tabindex="-1" class="heading-element" dir="auto">OOP Principle</h2>
+  <h2 tabindex="-1" class="heading-element" dir="auto">OOP Principles</h2>
 </div>
 <ul dir = "auto">
   <li>Encapsulation</li>
