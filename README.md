@@ -59,7 +59,7 @@
     SDG 4: Quality Education focuses on ensuring inclusive and equitable quality education for all and promoting lifelong learning opportunities. According to the official site of the United Nation's SDG Organization, The world is falling far behind in achieving quality education.
   <br>
   <br>
-    The inspiration behind creating a quiz program stems from this goal. It's like you're engaging people in an interactive way to spread awareness about other Sustainable Development Goals."
+    The inspiration behind creating a quiz program stems from this goal. It's like you're engaging people in an interactive way to spread awareness about other Sustainable Development Goals.
 </p>
 <hr></hr>
 <div class ="markdown-heading" dir="auto">
