@@ -81,7 +81,7 @@
 <ul>
   <li>One of the Best Professor sa OOP : Sir Jayson (yie baka ma-uno <3)</li>
   <li>Sa mga aso namin : Ulap, Tala, Ulan, Sinag, at Nyebe</li>
-  <li>Sa sarili ko siyempre my idol!</li>
+  <li>Sa laptop ko, for not giving up on me</li>
 </ul>
 <hr></hr>
 <h1>UNO QT!</h1>
