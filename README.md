@@ -1,5 +1,4 @@
 <p align = "center" dir = "auto">
-![output-onlinepngtools](https://github.com/user-attachments/assets/25c8d45c-52d1-471a-9190-404fb37701ff) 
 </p>
 
 <h1 align = "center" tabindex="-1" class="heading element" dir="auto">Sustainable Development Goals Quiz</h1>
