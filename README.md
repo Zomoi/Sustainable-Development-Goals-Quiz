@@ -5,14 +5,14 @@
 </em>
 </p>
 <p align = "center" dir="auto">
-  <b>IT-2014</b>
+  <b>IT-2104</b>
   <br>
   <a href="https://github.com/Zomoi">
   Rico, B-jork M.
   </a>
 </p>
 <hr></hr>
-<h1>About</h1>
+<h2>About</h2>
 <ul dir="auto">
   <li>
     <a href="#-project-overview">Project Overview</a>
