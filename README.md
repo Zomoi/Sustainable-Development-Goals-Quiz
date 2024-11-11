@@ -31,3 +31,24 @@
     <a href="#-instructions">Instructions on Running the Program</a>
   </li>
 </ul>
+<hr></hr>
+<div class ="markdown-heading" dir="auto">
+  <h2 tabindex="-1" class="heading-element" dir="auto">Project Overview</h2>
+</div>
+<p dir = "auto">
+  "This Java console-based quiz application tests user's knowledge on the United Nations Sustainable Developmental Goals through multiple-choice questions." 
+</p>
+<hr></hr>
+<div class ="markdown-heading" dir="auto">
+  <h2 tabindex="-1" class="heading-element" dir="auto">OOP Principle</h2>
+</div>
+<ul dir = "auto">
+  <li>Countdown timer</li>
+  <li>Custom event handling</li>
+  <li>Scoring System</li>
+</ul>
+<hr></hr>
+<div class ="markdown-heading" dir="auto">
+  <h2 tabindex="-1" class="heading-element" dir="auto">Chosen SDG</h2>
+</div>
+
