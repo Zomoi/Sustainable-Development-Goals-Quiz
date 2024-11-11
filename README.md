@@ -39,7 +39,7 @@
   <h2 tabindex="-1" class="heading-element" dir="auto">Project Overview</h2>
 </div>
 <p dir = "auto">
-  "This Java console-based quiz application tests user's knowledge on the United Nations Sustainable Developmental Goals through multiple-choice questions." 
+  This Java console-based quiz application tests user's knowledge on the United Nations Sustainable Developmental Goals through multiple-choice questions.
 </p>
 <hr></hr>
 <div class ="markdown-heading" dir="auto">
