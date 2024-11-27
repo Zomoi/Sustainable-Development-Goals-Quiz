@@ -5,7 +5,7 @@
 <h1 align="center" tabindex="-1" class="heading element" dir="auto">Sustainable Development Goals Quiz</h1>
 <p align="center" dir="auto">
   <em>
-    <code>📓A Java Console-based Quiz Application Test📓</code>
+    <code>📓A Java Quiz Application Test📓</code>
   </em>
 </p>
 <p align="center" dir="auto">
