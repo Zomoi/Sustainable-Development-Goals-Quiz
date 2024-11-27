@@ -39,10 +39,10 @@
   <h2 tabindex="-1" class="heading-element" dir="auto">☕OOP Principles</h2>
 </div>
 <ul dir="auto">
-  <li><b>Encapsulation</b> - Data and methods are encapsulated in classes to keep operations hidden and only expose necessary functionalities.</li>
-  <li><b>Polymorphism</b> - Different question types and answer choices interact with common methods, allowing for flexible handling of different question formats.</li>
-  <li><b>Abstraction</b> - Complex logic like scoring and timing is abstracted behind simple function calls, making it easy for users to interact with the program.</li>
-  <li><b>Inheritance</b> - Derived classes like multiple-choice questions inherit from a base question class, making the code modular and reusable.</li>
+  <li><b>💊Encapsulation</b> - In the BaseQuestions class, the questions, options, and answers arrays are marked as protected. This encapsulates the question-related data, allowing controlled access to them through getter methods in the Questions class (getQuestions(), getOptions(), and getAnswers()).</li>
+  <li><b>🧬Inheritance</b> - The Questions class inherits from the BaseQuestions class. This allows Questions to access the protected variables and methods in the BaseQuestions class without directly exposing them. Which BaseQuestions acts a base class providing the common properties (questions, options, answers) to its subclass Questions.</li>
+  <li><b>🗄️Abstraction</b> - The Timer in the Quiz class provides an example of abstraction where the timer's behavior is customized using an anonymous ActionListener. You don’t need to understand the low-level implementation of how the timer works, just the higher-level action it performs when triggered (e.g., updating the time display and stopping the timer when time runs out). Methods like nextQuestion(), displayAnswer(), and results() abstract away the details of how the quiz operates. These methods handle specific parts of the quiz functionality, allowing the main program to remain clean and simple. </li>
+  <li><b>📑Polymorphism</b> - The Quiz class uses method overriding through the implements ActionListener interface. The method actionPerformed() is overridden to handle button clicks for the quiz. This is an example of polymorphism, as the behavior of the method changes based on the button clicked (buttonA, buttonB, or buttonC). In the case of the Timer, polymorphism is also used where the actionPerformed() method is invoked on the timer's own action listener, allowing custom behavior once the timer reaches zero.</li>
 </ul>
 <hr></hr>
 
@@ -50,7 +50,7 @@
   <h2 tabindex="-1" class="heading-element" dir="auto">🌏Chosen SDG</h2>
 </div>
 <p dir="auto">
-  <h3>SDG 4 : Quality Education</h3>
+  <h3>📖SDG 4 : Quality Education</h3>
   <br>
   
 ![sdg4](https://github.com/user-attachments/assets/a7e32e0f-c9e2-442e-9fd6-e4781cc4ee5d)
@@ -97,5 +97,6 @@
 </ul>
 <hr></hr>
 <h1>UNO QT! 🚀⭐</h1>
+
 ![maloi](https://github.com/user-attachments/assets/7c20d3d1-a445-4daa-b9b6-9b18f03539f1)
 
