@@ -31,7 +31,7 @@
   <h2 tabindex="-1" class="heading-element" dir="auto">📖Project Overview</h2>
 </div>
 <p dir="auto">
-  This Java console-based quiz application tests users' knowledge on the United Nations Sustainable Development Goals (SDGs) through multiple-choice questions. This quiz application aims to promote awareness and understanding of the SDGs through an interactive, multiple-choice question format. The quiz is structured to provide users with a fun and educational way to test their knowledge on global sustainability issues. Upon completion, the user is given a score that reflects their knowledge and understanding of these critical topics.
+  This Java quiz application tests users' knowledge on the United Nations Sustainable Development Goals (SDGs) through multiple-choice questions. This quiz application aims to promote awareness and understanding of the SDGs through an interactive, multiple-choice question format. The quiz is structured to provide users with a fun and educational way to test their knowledge on global sustainability issues. Upon completion, the user is given a score that reflects their knowledge and understanding of these critical topics.
 </p>
 <hr></hr>
 
